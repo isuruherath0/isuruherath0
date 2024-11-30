@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/rexhonz77" target="blank"><img src="https://img.shields.io/twitter/follow/rexhonz77?logo=twitter&style=for-the-badge" alt="rexhonz77" /></a> </p>
 
-- 🔭 I’m currently working on **a MERN project for university**
+- 🔭 I’m currently working on **SWIFT UI Projects**
 
 - 🌱 I’m currently learning **AWS**
 
